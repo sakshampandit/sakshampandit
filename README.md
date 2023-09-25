@@ -80,12 +80,12 @@
 | Real Estate | [view](https://real-estate-website-sensei.vercel.app/) | [view](https://github.com/sakshampandit/Real-Estate) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
 | Real Estate Agility | [view](https://magma-sensei.netlify.app/) | [view](https://github.com/sakshampandit/Real-Estate) |`JavaScript` `HTML5` `CSS3` |
 | Linkedln Clone | - | - | `React.JS` `JavaScript` `CSS3`|
-| Cyberfiction | [view](https://app.netlify.com/sites/sensei-cyberfiction/) | - | `HTML5` `JavaScript` `CSS3`|
-| Restuarant | [view](https://app.netlify.com/sites/sensei-restuarant/) | - | `HTML5` `JavaScript` `CSS3`|
-| Ecommerce | [view](https://app.netlify.com/sites/sensei-ecommerce-website/) | - | `HTML5` `JavaScript` `CSS3`|
-| Apple Vision Pro | [view](https://app.netlify.com/sites/apple-vision007/) | - | `HTML5` `JavaScript` `CSS3`|
-| Travel WebSite | [view](https://app.netlify.com/sites/heartfelt-malasada-544980/) | - | `HTML5` `JavaScript` `CSS3`|
-| Personal Portfolio | [view](https://app.netlify.com/sites/saksham007-portfolio/) | - | `HTML5` `JavaScript` `CSS3`|
+| Cyberfiction | [view](https://sensei-cyberfiction.netlify.app/) | - | `HTML5` `JavaScript` `CSS3`|
+| Restuarant | [view](https://sensei-restuarant.netlify.app/) | - | `HTML5` `JavaScript` `CSS3`|
+| Ecommerce | [view](https://sensei-ecommerce-website.netlify.app/) | - | `HTML5` `JavaScript` `CSS3`|
+| Apple Vision Pro | [view](https://apple-vision007.netlify.app/) | - | `HTML5` `JavaScript` `CSS3`|
+| Travel WebSite | [view](https://heartfelt-malasada-544980.netlify.app/) | - | `HTML5` `JavaScript` `CSS3`|
+| Personal Portfolio | [view](https://sensei-portfolioo.netlify.app/) | - | `HTML5` `JavaScript` `CSS3`|
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -96,6 +96,7 @@
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/saksham2199?theme=light)](https://leetcode.com/saksham2199/)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="80%" alt="NUX_Octodex">
 
