@@ -94,11 +94,10 @@
 
 # Competitive Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/saksham2199?theme=light,unicorn)](https://leetcode.com/saksham2199/)
-<img src="https://github.com/sakshampandit/sakshampandit/assets/95771174/49246d6e-cd84-4b5e-b73a-2896abbf25c2" width="500rem" height="200rem">
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/saksham2199?theme=light)](https://leetcode.com/saksham2199/)
 
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="80%" alt="NUX_Octodex">
 
 
 </details>                     
