@@ -44,7 +44,7 @@
 <br>
 <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Baranwal&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshampandit&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -98,7 +98,7 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/saksham2199?theme=light,unicorn)](https://leetcode.com/saksham2199/)
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex" align="right">
-<img src="https://github.com/sakshampandit/sakshampandit/assets/95771174/49246d6e-cd84-4b5e-b73a-2896abbf25c2" width="450rem" height="300rem">
+<img src="https://github.com/sakshampandit/sakshampandit/assets/95771174/49246d6e-cd84-4b5e-b73a-2896abbf25c2" width="500rem" height="200rem">
 
 
 </details>                     
