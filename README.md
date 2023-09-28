@@ -76,7 +76,7 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| Ecommerce | [view](https://ecommerce-website-one-iota.vercel.app/login) | [view](https://github.com/sakshampandit/Ecommerce_Website-Full-Stack) | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS`| 
+| Ecommerce | [view](https://ecommerce-website-zeta-jade.vercel.app/signup) | [view](https://github.com/sakshampandit/Ecommerce_Website-Full-Stack) | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS`| 
 | Real Estate | [view](https://real-estate-website-sensei.vercel.app/) | [view](https://github.com/sakshampandit/Real-Estate) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
 | Real Estate Agility | [view](https://magma-sensei.netlify.app/) | [view](https://github.com/sakshampandit/Real-Estate) |`JavaScript` `HTML5` `CSS3` |
 | Linkedln Clone | - | - | `React.JS` `JavaScript` `CSS3`|
