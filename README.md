@@ -15,7 +15,7 @@
 
 👋 Greetings! It's great to have you here. I'm Saksham Pandit, an enthusiastic full-stack developer hailing from India.
 
-🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science and Engineering from [KIET Group of Institutions](https://www.kiet.edu/).
+🎓 &nbsp; I'm pursuing  Bachelor of Technology with a degree in Computer Science and Engineering from [KIET Group of Institutions](https://www.kiet.edu/).
 
 🚀 &nbsp; I'm also part of several communities., my forte lies in exploring technologies like Nextjs with TypeScript to build awesome products.
 
