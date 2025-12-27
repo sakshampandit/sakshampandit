@@ -13,9 +13,11 @@
 
 <i>&nbsp; I am a keen learner.</i><br>
 
-👋 Greetings! It's great to have you here. I'm Saksham Pandit, an enthusiastic full-stack developer hailing from India.
+👋 As a Software Engineer at Newgen Software, I specialize in back-end web development, leveraging microservices architecture, data structures, and Java to contribute to impactful projects. My role involves creating efficient solutions to complex problems, supported by my academic foundation in Computer Software Engineering from KIET Group of Institutions, where I earned a BTech degree in July 2024. 
 
-🎓 &nbsp; I'm pursuing  Bachelor of Technology with a degree in Computer Science and Engineering from [KIET Group of Institutions](https://www.kiet.edu/).
+My previous experience includes a software engineering internship at Newgen Software and other roles that have strengthened my technical skills and collaborative abilities. I am also certified in Google Cloud Essentials, Machine Learning, and Cybersecurity. These credentials reflect my commitment to continuous learning and refining my expertise in software development.
+
+🎓 &nbsp; I'm completed my  Bachelor of Technology with a degree in Computer Science and Engineering from [KIET Group of Institutions](https://www.kiet.edu/).
 
 🚀 &nbsp; I'm also part of several communities., my forte lies in exploring technologies like Nextjs with TypeScript to build awesome products.
 
