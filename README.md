@@ -2,7 +2,8 @@
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" padding-left="50" width=auto align="right">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" padding-left="50" width=auto align="left">  -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" padding-left="50" width=auto align="right">
 <br><br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -13,13 +14,13 @@
 
 <i>&nbsp; I am a keen learner.</i><br>
 
-👋 As a Software Engineer at Newgen Software, I specialize in back-end web development, leveraging microservices architecture, data structures, and Java to contribute to impactful projects. My role involves creating efficient solutions to complex problems, supported by my academic foundation in Computer Software Engineering from KIET Group of Institutions, where I earned a BTech degree in July 2024. 
+👋 As a Software Engineer at [Newgen Software](https://newgensoft.com), I specialize in back-end web development, leveraging microservices architecture, data structures, and Java to contribute to impactful projects. My role involves creating efficient solutions to complex problems, supported by my academic foundation in Computer Software Engineering from KIET Group of Institutions, where I earned a BTech degree in July 2024. 
 
 My previous experience includes a software engineering internship at Newgen Software and other roles that have strengthened my technical skills and collaborative abilities. I am also certified in Google Cloud Essentials, Machine Learning, and Cybersecurity. These credentials reflect my commitment to continuous learning and refining my expertise in software development.
 
-🎓 &nbsp; I'm completed my  Bachelor of Technology with a degree in Computer Science and Engineering from [KIET Group of Institutions](https://www.kiet.edu/).
+🎓 &nbsp; I have completed my  Bachelor of Technology with a degree in Computer Science and Engineering from [KIET Group of Institutions](https://www.kiet.edu/).
 
-🚀 &nbsp; I'm also part of several communities., my forte lies in exploring technologies like Nextjs with TypeScript to build awesome products.
+🚀 &nbsp; I'm also part of several communities., my forte lies in exploring technologies like Design Patterns with Spring to build awesome products.
 
 😄 &nbsp; When I'm not coding, you can find me immersing myself in the world of [beatbox](https://www.instagram.com/bbxindia/), making insightful stuff on [BBX INDIA](https://www.instagram.com/bbxindia/).
 
@@ -55,15 +56,15 @@ My previous experience includes a software engineering internship at Newgen Soft
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 | Category        | Skills        |
 |-----------------|---------------|
-| Frameworks| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>|
-| Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
-| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" /> |
-| Database |<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
-| Services & Tools|<a href="https://github.com/sakshampandit"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> |
-| Competitive Coding | <a href="https://leetcode.com/saksham2199/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/sakshampandit2199/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.codechef.com/users/sakshampandit"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a> |
-| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />|
-| Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>|
-| Design Tools    | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
+| Backend Frameworks & Architecture | <img src="https://img.shields.io/badge/Spring%20Framework--57a7a7?style=for-the-badge&labelColor=6e6d6d&logo=spring" alt="Badge"> <img src="https://img.shields.io/badge/Spring%20Boot--b8113e?style=for-the-badge&labelColor=6e6d6d&logo=springboot" alt="Badge"> <img src="https://img.shields.io/badge/Spring%20MVC--b6b811?style=for-the-badge&labelColor=6e6d6d&logo=spring" alt="Badge"> <img src="https://img.shields.io/badge/Spring%20WebFlux--1115b8?style=for-the-badge&labelColor=6e6d6d&logo=spring" alt="Badge"> <img src="https://img.shields.io/badge/Microservices--e90dce?style=for-the-badge&labelColor=0d85ca&logo=spring" alt="Badge"> <img src="https://img.shields.io/badge/Spring%20REST--0de97e?style=for-the-badge&labelColor=0d40ca&logo=spring" alt="Badge"> <img src="https://img.shields.io/badge/System%20Design--bad4c9?style=for-the-badge&labelColor=060e20" alt="Badge">  |
+|Security & Cross-Cutting Concerns  | <img src="https://img.shields.io/badge/Spring%20Security--f4f877?style=for-the-badge&labelColor=7b37ad&logo=springsecurity" alt="Badge"> <img src="https://img.shields.io/badge/Spring%20AOP--ff9e67?style=for-the-badge&labelColor=77201d&logo=springsecurity" alt="Badge"> <img src="https://img.shields.io/badge/Jackson--3ece2c?style=for-the-badge&labelColor=3ece2c" alt="Badge"> |
+| Data Access & Persistence | <img src="https://img.shields.io/badge/Spring%20Data--3ece2c?style=for-the-badge&labelColor=ce322c&logo=spring" alt="Badge"> <img src="https://img.shields.io/badge/JPA--3ece2c?style=for-the-badge&labelColor=992cce" alt="Badge"> <img src="https://img.shields.io/badge/Spring%20ORM--2cceb7?style=for-the-badge&labelColor=ce2c59&logo=spring" alt="Badge"> <img src="https://img.shields.io/badge/Spring%20JDBC--7dce2c?style=for-the-badge&labelColor=097a7e&logo=spring" alt="Badge"> <img src="https://img.shields.io/badge/SQL--f6700f?style=for-the-badge&labelColor=f6700f" alt="Badge"> |
+| Messaging, Caching & Distributed Systems |<img src="https://img.shields.io/badge/Apache%20Kafka--0feef6?style=for-the-badge&labelColor=83a50d&logo=apachekafka" alt="Badge"> <img src="https://img.shields.io/badge/Redis--f60f1f?style=for-the-badge&labelColor=0d85a5&logo=redis" alt="Badge"> |
+| Java & Core Engineering | <img src="https://img.shields.io/badge/Java%208--2fa046?style=for-the-badge&labelColor=6e58e6" alt="Badge"> <img src="https://img.shields.io/badge/Collection%20Framework--ff0009?style=for-the-badge&labelColor=df58e6" alt="Badge"> <img src="https://img.shields.io/badge/Data%20Structures--fcf9f9?style=for-the-badge&labelColor=423f42&logo=thealgorithms" alt="Badge"> |
+| Concept Coding | <a href="https://leetcode.com/saksham2199/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/sakshampandit2199/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.codechef.com/users/sakshampandit"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a> |
+| IDE & Environment | <img src="https://img.shields.io/badge/VS%20Code--white?style=for-the-badge&labelColor=fa3b1b&logo=vscodium" alt="Badge"> <img src="https://img.shields.io/badge/Intellij%20Idea--white?style=for-the-badge&labelColor=0907a8&logo=intellijidea" alt="Badge"> <img src="https://img.shields.io/badge/STS--white?style=for-the-badge&labelColor=11fa06" alt="Badge"> <img src="https://img.shields.io/badge/Eclipse--white?style=for-the-badge&labelColor=fa06f4&logo=eclipseide" alt="Badge"> |
+| Web Technologies (Legacy + Supporting) | ![](https://img.shields.io/badge/JavaServer%20Pages--09fcfc?style=for-the-badge&labelColor=e9e910) <img src="https://img.shields.io/badge/Thymeleaf--090ffc?style=for-the-badge&labelColor=e92e10&logo=thymeleaf" alt="Badge"> <img src="https://img.shields.io/badge/Docker--f9fc09?style=for-the-badge&labelColor=40e910&logo=docker" alt="Badge">  |
+| Professional & Industry Skills | <img src="https://img.shields.io/badge/Communication--fc09dd?style=for-the-badge&labelColor=4f10e9" alt="Badge"> <img src="https://img.shields.io/badge/Engineering%20Practices--14fc09?style=for-the-badge&labelColor=faf406" alt="Badge">  |
 | Learning | <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />|
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -101,6 +102,9 @@ My previous experience includes a software engineering internship at Newgen Soft
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="80%" alt="NUX_Octodex">
+
+
+
 
 
 </details>                     
