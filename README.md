@@ -79,6 +79,10 @@ My previous experience includes a software engineering internship at Newgen Soft
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
+| Smart Service Contact Manager |  soon.... | soon... | `Spring` `Thymeleaf` `Kafka` `AWS` `Cloudinary`| 
+| AirBnb | soon... | soon.. | `Spring REST` `Spring Security` `System Design` `Concurrency Control` | 
+| Zomato Location Update | soon.. | soon.. | `Kafka` `Zookeeper` `Sleuth & Zipkin` | 
+| Hotel Service Manager | soon... | soon.... | `Microservices` `Spring Boot`| 
 | Ecommerce | [view](https://ecommerce-website-zeta-jade.vercel.app/signup) | [view](https://github.com/sakshampandit/Ecommerce_Website-Full-Stack) | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS`| 
 | Real Estate | [view](https://real-estate-website-sensei.vercel.app/) | [view](https://github.com/sakshampandit/Real-Estate) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
 | Real Estate Agility | [view](https://magma-sensei.netlify.app/) | [view](https://github.com/sakshampandit/Real-Estate) |`JavaScript` `HTML5` `CSS3` |
