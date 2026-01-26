@@ -3,15 +3,15 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" padding-left="50" width=auto align="left">  -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" padding-left="50" width=auto align="right">
 <br><br>
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 # About-me
 <div>
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" padding-left="50" width=auto align="right">
 <i>&nbsp; I am a keen learner.</i><br>
 
 👋 As a Software Engineer at [Newgen Software](https://newgensoft.com), I specialize in back-end web development, leveraging microservices architecture, data structures, and Java to contribute to impactful projects. My role involves creating efficient solutions to complex problems, supported by my academic foundation in Computer Software Engineering from KIET Group of Institutions, where I earned a BTech degree in July 2024. 
